@@ -1,6 +1,6 @@
 E-commerce API
 
-A basic E-commerce API built with Spring Boot to manage products, cart, and orders. The project includes CRUD operations, a Stripe payment integration, and authentication.
+A E-commerce API built with Spring Boot to manage products, cart, and orders. The project includes CRUD operations, a Stripe payment integration, and authentication.
 
 Features
 
